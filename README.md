@@ -6,3 +6,20 @@ An experimental image slider that flips through images in 3D. Four stacks resemb
 
 Watch Demo at http://dpes.com.np/demo.html
            or https://www.jqueryscript.net/slider/3D-Stack-Card-Slider.html
+           
+Settings
+<table>
+<thead>
+<tr>
+	<th>Option</th>
+	<th>Type</th>
+	<th>Default</th>
+	<th>Description</th>
+</tr>
+<tr>
+	<td>autoPlay</td>
+	<td>boolean</td>
+	<td>true</td>
+	<td>Enables auto play of slides</td>
+</tr>
+</tbody></table>
