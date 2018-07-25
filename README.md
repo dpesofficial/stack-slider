@@ -47,3 +47,14 @@ Settings
 	<td>Current slide indicator dots</td>
 </tr>
 </tbody></table>
+
+Example
+Initialize with:
+
+$( "#slider" ).stack_slider({
+	autoPlaySpeed: 3000,
+	autoPlay: true,
+	dots: true,
+	arrows: true,
+	drag: false
+});
