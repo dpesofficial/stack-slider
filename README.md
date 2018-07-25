@@ -22,4 +22,28 @@ Settings
 	<td>true</td>
 	<td>Enables auto play of slides</td>
 </tr>
+<tr>
+	<td>autoPlaySpeed</td>
+	<td>int</td>
+	<td>3000</td>
+	<td>Auto play change interval</td>
+</tr>
+<tr>
+	<td>arrows</td>
+	<td>boolean</td>
+	<td>true</td>
+	<td>Enable Next/Prev arrows</td>
+</tr>
+<tr>
+	<td>drag</td>
+	<td>boolean</td>
+	<td>true</td>
+	<td>Enables desktop dragging</td>
+</tr>
+<tr>
+	<td>dots</td>
+	<td>boolean</td>
+	<td>true</td>
+	<td>Current slide indicator dots</td>
+</tr>
 </tbody></table>
