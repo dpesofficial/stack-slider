@@ -48,13 +48,16 @@ Settings
 </tr>
 </tbody></table>
 
-Example
+
+
 Initialize with:
 
-$( "#slider" ).stack_slider({
-	autoPlaySpeed: 3000,
-	autoPlay: true,
-	dots: true,
-	arrows: true,
-	drag: false
+<pre>
+<span class="pl-en">$</span>("#slider").<span class="pl-en">stack_slider</span>({
+  autoPlaySpeed<span class="pl-k">:</span> <span class="pl-c1">3000</span>,
+  autoPlay<span class="pl-k">:</span> <span class="pl-c1">true</span>,
+  dots<span class="pl-k">:</span> <span class="pl-c1">true</span>,
+  arrows<span class="pl-k">:</span> <span class="pl-c1">true</span>,
+  drag<span class="pl-k">:</span> <span class="pl-c1">true</span>
 });
+</pre>
