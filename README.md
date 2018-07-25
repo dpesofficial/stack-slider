@@ -49,7 +49,7 @@ Settings
 </tbody></table>
 
 
-
+<h4> Example </h4>
 Initialize with:
 
 <pre>
