@@ -1,7 +1,7 @@
-🆂🆃🅰🅲🅺 🆂🅻🅸🅳🅴🆁 <br/>
-🅱🆈: 🅳🅸🅿🅴🆂🅷 🆃🅷🅰🅿🅰
+<h1>🆂🆃🅰🅲🅺 🆂🅻🅸🅳🅴🆁 <br/>
+🅱🆈: 🅳🅸🅿🅴🆂🅷 🆃🅷🅰🅿🅰</h1>
 
-# Author Site: http://dpes.com.np/
+<h4># Author Site: http://dpes.com.np/</h4>
 
 An experimental image slider that flips through images in 3D. Four stacks resemble image piles where images will be lifted off from and rotated to the front for viewing.
 
