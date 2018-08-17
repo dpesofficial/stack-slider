@@ -128,7 +128,8 @@ Version: 1.9.0
 			  	            autoPlaySpeed: 3000,
 			  	            dots: true,
 			  	            arrows: true,
-			  	            drag: true
+							drag: true,
+							direction: "horizontal"
 			  	        }, options );
 
 			  	     	// dots
@@ -160,6 +161,11 @@ Version: 1.9.0
 			  	        		$("#dp-next").click();
 			  	        	 }, settings.autoPlaySpeed);
 			  	        }
+						
+						//slider direction
+						if (settings.direction == "vertical") {
+							$(".dp-wrap").addClass("vertical");
+						}
 
 			  	        // stack_slider the collection based on the settings variable.
 			  	        return this.css({

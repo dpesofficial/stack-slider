@@ -46,6 +46,13 @@ Settings
 	<td>true</td>
 	<td>Current slide indicator dots</td>
 </tr>
+<tr>
+	<td>direction</td>
+	<td>string</td>
+	<td>'direction: hozizontal'</td>
+	<td>Sets direction of slider either vertical or horizontal <br/> 
+		For vertical layout set 'direction: vertical'</td>
+</tr>
 </tbody></table>
 
 
